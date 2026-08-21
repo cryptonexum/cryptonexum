@@ -1,7 +1,3 @@
-Absolutely. Since you want to position yourself as a **Blockchain/Web3 + Java Backend + Cloud/DevOps engineer**, I’d make the README look modern and technical rather than like a basic CV.
-
-You can paste the following directly into your **`README.md`** in a GitHub repository named exactly the same as your GitHub username.
-
 # 👋 Hi, I'm Inayat Hussain
 
 ### 🚀 Blockchain & Full-Stack Engineer | Java | Web3 | Cloud | DevOps
