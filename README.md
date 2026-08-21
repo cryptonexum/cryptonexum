@@ -1,12 +1,3 @@
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptonexum&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cryptonexum&theme=tokyonight&hide_border=true" width="70%" />
-</p>
 
 # 👋 Hi, I'm Inayat Hussain
 
@@ -246,31 +237,40 @@ I enjoy designing distributed systems and production architectures.
 
 ---
 
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/cryptonexum">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptonexum&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-  </a>
-</p>
+# 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/cryptonexum?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/cryptonexum?tab=followers">
-    <img src="https://img.shields.io/github/followers/cryptonexum?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://github.com/cryptonexum">
-    <img src="https://img.shields.io/github/stars/cryptonexum?style=for-the-badge&logo=github&label=Stars" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+    <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
+  </picture>
 </p>
 
 ### 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cryptonexum&theme=tokyonight&hide_border=true" width="70%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+    <img src="./assets/contributions.light.svg" alt="Contribution Activity" width="100%">
+  </picture>
+</p>
+
+### 💻 Programming Languages
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+    <img src="./assets/languages.light.svg" alt="Programming Languages" width="100%">
+  </picture>
+</p>
+
+### 📈 Contribution History
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
+    <img src="./assets/lifetime.light.svg" alt="Contribution History" width="100%">
+  </picture>
 </p>
 
 
