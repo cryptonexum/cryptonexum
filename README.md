@@ -237,15 +237,30 @@ I enjoy designing distributed systems and production architectures.
 ---
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptonexum&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonexum&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <a href="https://github.com/cryptonexum">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptonexum&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cryptonexum&theme=tokyonight&hide_border=true" height="180" />
+  <a href="https://github.com/cryptonexum?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/cryptonexum?tab=followers">
+    <img src="https://img.shields.io/github/followers/cryptonexum?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/cryptonexum">
+    <img src="https://img.shields.io/github/stars/cryptonexum?style=for-the-badge&logo=github&label=Stars" />
+  </a>
+</p>
+
+### 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cryptonexum&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 
