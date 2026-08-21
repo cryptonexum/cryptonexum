@@ -1,3 +1,13 @@
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptonexum&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cryptonexum&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
 # 👋 Hi, I'm Inayat Hussain
 
 ### 🚀 Blockchain & Full-Stack Engineer | Java | Web3 | Cloud | DevOps
