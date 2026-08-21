@@ -239,40 +239,6 @@ I enjoy designing distributed systems and production architectures.
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
-    <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
-  </picture>
-</p>
-
-### 🔥 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
-    <img src="./assets/contributions.light.svg" alt="Contribution Activity" width="100%">
-  </picture>
-</p>
-
-### 💻 Programming Languages
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
-    <img src="./assets/languages.light.svg" alt="Programming Languages" width="100%">
-  </picture>
-</p>
-
-### 📈 Contribution History
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
-    <img src="./assets/lifetime.light.svg" alt="Contribution History" width="100%">
-  </picture>
-</p>
-
 
 ---
 
