@@ -237,17 +237,36 @@ I enjoy designing distributed systems and production architectures.
 
 ---
 
-
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptonexum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonexum&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+<a href="https://github.com/cryptonexum?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Repositories-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/cryptonexum?tab=stars">
+<img src="https://img.shields.io/badge/⭐%20Stars-View%20Stars-181717?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/cryptonexum?tab=followers">
+<img src="https://img.shields.io/badge/Followers-View%20Followers-181717?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cryptonexum&theme=tokyonight&hide_border=true" height="180" />
+
+<a href="https://github.com/cryptonexum">
+<img src="https://img.shields.io/github/followers/cryptonexum?label=Followers&style=for-the-badge" />
+</a>
+
+<img src="https://img.shields.io/github/commit-activity/y/cryptonexum/apple_push_to_talk?label=Commits&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/last-commit/cryptonexum/apple_push_to_talk?label=Last%20Commit&style=for-the-badge" />
+
 </p>
+
 
 ---
 
