@@ -240,19 +240,19 @@ I enjoy designing distributed systems and production architectures.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/itsinayats">
+  <a href="https://github.com/cryptonexum">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptonexum&theme=tokyo-night&hide_border=true&area=true" width="95%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/itsinayats?tab=repositories">
+  <a href="https://github.com/cryptonexum?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/itsinayats?tab=followers">
+  <a href="https://github.com/cryptonexum?tab=followers">
     <img src="https://img.shields.io/github/followers/cryptonexum?style=for-the-badge&logo=github&label=Followers" />
   </a>
-  <a href="https://github.com/itsinayats">
+  <a href="https://github.com/cryptonexum">
     <img src="https://img.shields.io/github/stars/cryptonexum?style=for-the-badge&logo=github&label=Stars" />
   </a>
 </p>
